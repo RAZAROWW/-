@@ -1,7 +1,7 @@
 Яна, доброе утро. 
 
 Вчера вечером всё таки нашёл сервер, куда можно всё загрузить... вот ссылки: 
-Клиент: http://математика74.рф/321/rpgu_laravel/server.php/te..
+Клиент: http://xn--74-6kcaa2awqnc8dd.xn--p1ai/321/rpgu_laravel/server.php/templates
 Сервер: http://математика74.рф/321/server/send_mail.php 
 
 База данных: http://математика74.рф/phpmyadminDB 
